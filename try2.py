@@ -1,4 +1,4 @@
-import turtle as t
+imp
 t.color('red')
 for i in range(270):
     t.fd(i)
