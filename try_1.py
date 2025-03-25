@@ -1,3 +1,3 @@
 import time
-print("hello world")
+print("hello worl")
 print("cpu_final")
